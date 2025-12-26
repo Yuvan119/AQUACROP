@@ -1,1 +1,9 @@
-# AQUACROP
+This project is an automatic irrigation system based on a soil moisture sensor. The main purpose of the system is to supply water to plants only when it is required, thereby avoiding water wastage and improving irrigation efficiency. The system continuously monitors the moisture content present in the soil and makes irrigation decisions automatically without the need for human intervention.
+
+A soil moisture sensor is placed in the soil near the plant roots to measure the level of moisture. When the soil becomes dry and the moisture level falls below a predefined threshold, the sensor detects this condition and sends a signal to the controller. Based on this signal, the controller activates a water pump or irrigation valve, allowing water to flow to the plants.
+
+As irrigation continues, the soil moisture level gradually increases. The sensor continuously checks the moisture content during this process. Once the soil reaches the required or optimal moisture level, the sensor detects sufficient moisture and sends an updated signal to the controller. The controller then automatically switches off the water pump or closes the irrigation valve.
+
+This automatic start-and-stop mechanism ensures that plants receive adequate water without over-irrigation. It helps conserve water, prevents root damage caused by excess watering, and reduces the need for manual monitoring. The system is especially useful in agricultural fields, gardens, and greenhouse environments where efficient water management is essential.
+
+Overall, this soil moisture–based automatic irrigation system provides a simple, reliable, and cost-effective solution for smart farming. By automating irrigation based on real-time soil conditions, the system promotes sustainable agriculture and efficient use of water resources.
